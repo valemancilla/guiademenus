@@ -11,3 +11,6 @@ Especialidad en cortes de carne preparados a la parrilla o al horno.
 # bebidas 
 - Vino tinto Malbec 
 - Cerveza artesanal
+
+# consejos 
+Dejar reposar la carne después de cocinar para conservar jugos.
