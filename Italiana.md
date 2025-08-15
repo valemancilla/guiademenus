@@ -9,4 +9,8 @@ cocina tradicional con sabores mediterraneos y uso abundante de pasta,tomate y h
 -margarita
 -risotto al funghi
 
+# bebidas 
+-vino tinto chianti
+-limoncello
+ 
 
