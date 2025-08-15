@@ -7,3 +7,7 @@ Elegancia culinaria con técnicas refinadas
 - Coq au Vin 
 - Ratatouille 
 - Quiche Lorraine
+
+# bebidas 
+- Vino Chardonnay
+- Champagne
