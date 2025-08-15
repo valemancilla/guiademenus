@@ -11,3 +11,6 @@ Basada en aceite de oliva, verduras frescas y pescado
 # bebidas 
 - Vino rosado 
 - Agua con limón
+
+# consejos 
+Usar hierbas frescas como romero y orégano
