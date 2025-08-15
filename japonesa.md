@@ -11,3 +11,6 @@ Comida balanceada con énfasis en frescura y presentación
 # bebidas
 - Té verde 
 - Sake 
+
+# consejos 
+Mantener el arroz en su punto para un mejor resultado.
