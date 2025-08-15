@@ -11,3 +11,6 @@ sabores intensos , uso de chiles,maiz y frijoles
 # bebidas 
 - Horchata 
 - Margarita
+
+# cosejos 
+Ajusta el picante según el gusto de los comensales
