@@ -16,8 +16,7 @@ Bienvenido a la **Guía de Menús Gastronómicos**, una recopilación de menús 
 - [Postres](menus/Postres.md): Dulces tentaciones para terminar con broche de oro.
 ​
 ## Cómo Usar Esta Guía
-​
-1. Haz clic en el enlace de la cocina que te interese para explorar su contenido.
+​1. Haz clic en el enlace de la cocina que te interese para explorar su contenido.
 2. Sigue las instrucciones y recomendaciones para preparar los platos.
 3. ¡Disfruta de una experiencia culinaria única!
 ​
