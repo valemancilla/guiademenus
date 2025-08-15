@@ -4,16 +4,16 @@ Bienvenido a la **Guía de Menús Gastronómicos**, una recopilación de menús 
 ​
 ## Tipos de Cocina
 ​
-- [Cocina Italiana](menus/italiana.md): Descubre los sabores tradicionales de Italia con platos como pizza, pasta y risotto.
-- [Cocina Mexicana](menus/mexicana.md): Vive la experiencia de México con tacos, enchiladas y margaritas.
-- [Cocina Japonesa](menus/japonesa.md): Sushis, ramen y más delicias niponas.
-- [Cocina India](menus/india.md): Platos especiados como curry y biryani.
-- [Cocina China](menus/china.md): Dumplings, pato pekinés y arroz frito.
-- [Cocina Francesa](menus/francesa.md): Crepes, ratatouille y elegantes postres.
-- [Cocina Mediterránea](menus/mediterranea.md): Platos frescos como ensaladas y pescados.
-- [Cocina Vegetariana](menus/vegetariana.md): Opciones saludables y sin carne.
-- [Cocina de Carnes](menus/carnes.md): Asados, parrilladas y más.
-- [Postres](menus/postres.md): Dulces tentaciones para terminar con broche de oro.
+- [Cocina Italiana](menus/Italiana.md): Descubre los sabores tradicionales de Italia con platos como pizza, pasta y risotto.
+- [Cocina Mexicana](menus/Mexicana.md): Vive la experiencia de México con tacos, enchiladas y margaritas.
+- [Cocina Japonesa](menus/Japonesa.md): Sushis, ramen y más delicias niponas.
+- [Cocina India](menus/India.md): Platos especiados como curry y biryani.
+- [Cocina China](menus/China.md): Dumplings, pato pekinés y arroz frito.
+- [Cocina Francesa](menus/Francesa.md): Crepes, ratatouille y elegantes postres.
+- [Cocina Mediterránea](menus/Mediterránea.md): Platos frescos como ensaladas y pescados.
+- [Cocina Vegetariana](menus/Vegetariana.md): Opciones saludables y sin carne.
+- [Cocina de Carnes](menus/Carnes.md): Asados, parrilladas y más.
+- [Postres](menus/Postres.md): Dulces tentaciones para terminar con broche de oro.
 ​
 ## Cómo Usar Esta Guía
 ​
