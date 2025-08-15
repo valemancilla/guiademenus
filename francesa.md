@@ -11,3 +11,6 @@ Elegancia culinaria con técnicas refinadas
 # bebidas 
 - Vino Chardonnay
 - Champagne
+
+# consejos 
+Respetar los tiempos de cocción lenta para desarrollar sabores.
