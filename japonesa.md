@@ -7,3 +7,7 @@ Comida balanceada con énfasis en frescura y presentación
 - Sushi
 - Ramen 
 - Tempura
+
+# bebidas
+- Té verde 
+- Sake 
