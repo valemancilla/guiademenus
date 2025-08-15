@@ -7,3 +7,7 @@ Preparaciones sin carne, ricas en vegetales y legumbres
 - Hamburguesa de lentejas 
 - Pasta con pesto 
 - Curry de garbanzos
+
+# bebidas 
+- Jugo natural 
+- Smoothies
