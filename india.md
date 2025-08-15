@@ -7,3 +7,7 @@ Rica en especias y sabores exóticos.
 - Pollo Tikka Masala 
 - Curry de Lentejas 
 - Naan
+
+# bebidas 
+- Lassi 
+- Chai
