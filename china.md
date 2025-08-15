@@ -12,3 +12,5 @@ Combinación de sabores dulces, salados y agridulces.
 - Té de jazmín 
 - Baijiu
 
+# consejos
+Saltear a fuego alto para conservar la textura de los vegetales 
