@@ -11,3 +11,6 @@ Preparaciones sin carne, ricas en vegetales y legumbres
 # bebidas 
 - Jugo natural 
 - Smoothies
+ 
+# consejos 
+Combinar legumbres y cereales para obtener proteína completa. 
