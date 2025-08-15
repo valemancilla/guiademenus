@@ -8,3 +8,6 @@ sabores intensos , uso de chiles,maiz y frijoles
 - mole poblano
 - enchiladas 
 
+# bebidas 
+- Horchata 
+- Margarita
