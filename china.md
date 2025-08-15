@@ -7,3 +7,8 @@ Combinación de sabores dulces, salados y agridulces.
 - Pollo Kung Pao 
 - Dumplings
 - Chow Mein
+
+# bebidas 
+- Té de jazmín 
+- Baijiu
+
