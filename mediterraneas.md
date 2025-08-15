@@ -7,3 +7,7 @@ Basada en aceite de oliva, verduras frescas y pescado
 - Paella
 - Hummus con Pan Pita 
 - Ensalada Griega
+
+# bebidas 
+- Vino rosado 
+- Agua con limón
