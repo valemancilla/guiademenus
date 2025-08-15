@@ -12,5 +12,7 @@ cocina tradicional con sabores mediterraneos y uso abundante de pasta,tomate y h
 # bebidas 
 -vino tinto chianti
 -limoncello
- 
+
+# consejos 
+usar ingredientes frescos y de temporada para mayor sabor 
 
