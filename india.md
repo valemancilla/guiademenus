@@ -11,3 +11,6 @@ Rica en especias y sabores exóticos.
 # bebidas 
 - Lassi 
 - Chai
+
+# consejos
+Tostar ligeramente las especias para potenciar su aroma
