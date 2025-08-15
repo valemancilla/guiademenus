@@ -7,3 +7,7 @@ Dulces para cerrar una comida con broche de oro
 - Tarta de manzana
 - Mousse de chocolate
 - Flan
+
+# bebidas 
+- Café 
+- Chocolate caliente
